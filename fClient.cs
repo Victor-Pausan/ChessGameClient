@@ -17,7 +17,7 @@ namespace ChessGame
     {
         Form1 mainForm;
 
-        public TcpClient client;
+        public TcpClient client;    
         public NetworkStream clientStream;
         public bool ascult;
         public fClient clientForm;
